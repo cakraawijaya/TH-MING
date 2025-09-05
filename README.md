@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-ESP32-light.svg?style=flat&logo=espressif&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Monitoring-Suhu-dan-Kelembaban-Udara-Berbasis-Industrial-IoT-dengan-MING-Stack-dan-Protokol-Modbus
+# Monitoring Suhu dan Kelembaban Udara Berbasis Industrial IoT dengan MING Stack dan Protokol Modbus
 Coming Soon...
 
 <br><br>
