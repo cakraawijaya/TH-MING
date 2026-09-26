@@ -12,16 +12,16 @@ This project is an Industrial IoT-based system for real-time temperature and hum
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Development Board | ESP32 S3 DEVKIT C N16R8 |
+| Development Board | ESP32-S3 DEVKIT-C N16R8 + Antenna |
 | Code Editor | Visual Studio Code - PlatformIO IDE |
 | Framework | Arduino |
 | Driver | CP210X USB Driver |
-| Platform Stacks | • Mosquitto MQTT Broker<br>• InfluxDB<br>• Node-RED<br>• Grafana |
+| Technology Stack | • Mosquitto MQTT Broker<br>• InfluxDB<br>• Node-RED<br>• Grafana |
 | Communications Protocol | • RS485<br>• Modbus RTU (Remote Terminal Unit)<br>• Message Queuing Telemetry Transport (MQTT) |
 | IoT Architecture | 4 Layer |
 | Programming Language | C/C++ |
 | Arduino Library | • WiFi (default)<br>• MQTT<br>• ArduinoJson<br>• ModbusMaster |
 | Sensor | XY-MD02: Temperature & Humidity Sensor (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Socket female jack DC (x1)<br>• Adaptor DC 5V (x1)<br>• MAX485 TTL to RS-485 Converter (x1) |
+| Other Components | • USB type C Cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Socket female jack DC (x1)<br>• Adaptor DC 5V (x1)<br>• MAX485 TTL to RS-485 Converter (x1) |
 
 <br><br>
