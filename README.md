@@ -5,7 +5,7 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # TH-MING
-This project is an Industrial IoT-based system for real-time temperature and humidity monitoring using the XY-MD02 sensor. The ESP32-S3 acts as an IoT gateway, reading sensor data through RS485 and Modbus RTU, then transmitting the data via Wi-Fi using MQTT. The data is processed by Node-RED, stored in InfluxDB, and visualized using Grafana.
+This project focuses on real-time temperature and humidity monitoring using the XY-MD02 sensor as part of an Industrial IoT system. The ESP32-S3 acts as an IoT gateway, reading sensor data through RS485 and Modbus RTU, then transmitting the data via Wi-Fi using MQTT. The data is processed by Node-RED, stored in InfluxDB, and visualized using Grafana.
 
 <br><br>
 
