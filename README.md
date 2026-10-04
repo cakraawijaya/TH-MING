@@ -22,6 +22,6 @@ This project focuses on real-time temperature and humidity monitoring using the 
 | Programming Language | C/C++ |
 | Arduino Library | • WiFi (default)<br>• MQTT<br>• ArduinoJson<br>• ModbusMaster |
 | Sensor | XY-MD02: Temperature & Humidity Sensor (x1) |
-| Other Components | • USB type C Cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Socket female jack DC (x1)<br>• Adaptor DC 5V (x1)<br>• MAX485 TTL to RS-485 Converter (x1) |
+| Other Components | • USB type C Cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Socket female jack DC (x1)<br>• Adaptor DC 9V 1A (x1)<br>• MAX485 TTL to RS-485 Converter (x1) |
 
 <br><br>
